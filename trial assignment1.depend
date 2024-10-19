@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728645200 source:c:\users\be nice\documents\codeblock\trial assignment1\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
